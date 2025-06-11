@@ -1,4 +1,4 @@
-# Orchids Challenge
+# AI Web Cloner
 
 A fullstack project with a Python FastAPI backend and a Next.js frontend (React).
 
